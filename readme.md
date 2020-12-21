@@ -16,18 +16,21 @@ php artisan serve
 
 retrieve single post
 GET http://localhost:8000/posts/{post_id}
-n/https://drive.google.com/file/d/12IPtrswrncGUtsIz_-GoeRbXYJ-k6n5m/view?usp=sharing
+
+https://drive.google.com/file/d/12IPtrswrncGUtsIz_-GoeRbXYJ-k6n5m/view?usp=sharing
 
 
 
 retrieve all posts 
 GET http://localhost:8000/posts
-n/https://drive.google.com/file/d/1qEMyM22zoD1RKLSibBl4LT9_KDe2q7ei/view?usp=sharing
+
+https://drive.google.com/file/d/1qEMyM22zoD1RKLSibBl4LT9_KDe2q7ei/view?usp=sharing
 
 
 search comments -  params : name, body and email
 POST http://localhost:8000/comments
-n/https://drive.google.com/file/d/1qGUW6zB_lzAjRU4CVqWiuqS3QydPTKXA/view?usp=sharing
+
+https://drive.google.com/file/d/1qGUW6zB_lzAjRU4CVqWiuqS3QydPTKXA/view?usp=sharing
 
 
 
