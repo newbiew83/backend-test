@@ -27,6 +27,8 @@ GET http://localhost:8000/posts
 https://drive.google.com/file/d/1qEMyM22zoD1RKLSibBl4LT9_KDe2q7ei/view?usp=sharing
 
 
+
+
 search comments -  params : name, body and email
 POST http://localhost:8000/comments
 
